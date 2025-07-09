@@ -22,6 +22,10 @@ This is a real-world AI-powered application that predicts whether a loan applica
 
 Kaggle Dataset: [Loan Prediction Problem Dataset](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)
 
+##  Live Demo
+
+🔗 [Streamlit App Link](https://your-streamlit-app-url)
+
 ## 🛠 How to Run Locally
 ```bash
 # 1. Clone the repo
@@ -35,3 +39,4 @@ pip install -r requirements.txt
 
 # 4. Run the app
 streamlit run app.py
+
