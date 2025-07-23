@@ -24,7 +24,7 @@ Kaggle Dataset: [Loan Prediction Problem Dataset](https://www.kaggle.com/dataset
 
 ##  Live Demo
 
-🔗 [Streamlit App Link](https://your-streamlit-app-url)
+🔗 [Streamlit App Link](https://loan-approval-app-6tzfz8hvvqdmc5czo9l7vc.streamlit.app/)
 
 ## 🛠 How to Run Locally
 ```bash
